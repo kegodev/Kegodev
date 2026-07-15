@@ -25,9 +25,9 @@ A fully optimized, high-converting e-commerce platform.
 | Area | Technologies |
 | :--- | :--- |
 | **Frontend** | React, Next.js, Tailwind CSS, TypeScript, HTML5/CSS3 |
-| **Backend & AI** | Node.js, Python, OpenAI API / LLM Integrations |
-| **E-Commerce** | Shopify, WooCommerce, Custom Payment Gateways |
-| **DevOps & Cloud** | Vercel, AWS, Git/GitHub, CI/CD |
+| **Backend & AI** | Node.js, Python, Gemini API / LLM Integrations |
+| **E-Commerce** | Admin Dashboard, Custom Payment Gateways |
+
 
 ---
 
