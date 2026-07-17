@@ -9,7 +9,7 @@ I build, scale, and maintain web applications, e-commerce ecosystems, and AI-dri
 ### 🔬 [KM Digital Labs](https://kmdlabs.page.gd) | *Founder*
 A company that builds digital products, premium websites, online stores, learning platforms, and custom software — strategically designed, professionally built, and supported after launch.
 
-### 🎓 [Dinglo](https://dinglo.kesug.com) | *Founder & CEO*
+### 🎓 [Dinglo](https://dingloedu.kesug.com) | *Founder & CEO*
 An all-in-one educational web ecosystem designed to streamline student learning.
 * **The Tech:** 10+ integrated study applications.
 * **AI Integrations:** Custom, subject-specific AI chatbots designed to act as on-demand tutors.
