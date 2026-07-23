@@ -14,10 +14,6 @@ An all-in-one educational web ecosystem designed to streamline student learning.
 * **The Tech:** 10+ integrated study applications.
 * **AI Integrations:** Custom, subject-specific AI chatbots designed to act as on-demand tutors.
 
-### 🛒 [Vaped](https://vaped.xo.je) | *Owner & Operator*
-A fully optimized, high-converting e-commerce platform.
-* Focused on seamless UX, secure checkout pipelines, and robust inventory management.
-
 ---
 
 ## 💻 Tech Stack & Expertise
