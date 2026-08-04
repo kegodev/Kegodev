@@ -1,4 +1,8 @@
-# Founder, Full-Stack Developer and Physical Sciences Student
+# Mangena Kegorapetse
+
+**Founder · Full-Stack Developer · Physical Sciences Student**
+
+[![GitHub followers](https://img.shields.io/github/followers/kegodev?label=Follow&style=social)](https://github.com/kegodev)
 
 I build practical digital products for businesses, students and educational institutions. My work includes premium websites, e-commerce platforms, virtual laboratories, learning systems, developer tools and AI-assisted applications.
 
@@ -75,9 +79,17 @@ The simulator is designed to support practical science education where access to
 
 A luxury beauty-service website developed for a client, featuring service presentation, pricing information, responsive design, animations and WhatsApp-based booking.
 
-### [KM Digital Labs CodeSpace](https://github.com/kegodev/-kmdlabs-codespace)
+### [KM Digital Labs CodeSpace](https://github.com/kegodev/kmdlabs-codespace)
 
 A browser-based coding environment for writing and previewing HTML, CSS and JavaScript projects.
+
+### [Dinglo Physics Solver](https://github.com/kegodev/Dinglo-Physics-Solver)
+
+A Python mechanics solver that shows formulas, substitutions and step-by-step answers for Newton's laws, momentum, projectiles, work and energy.
+
+### [Dinglo Simple Pendulum Simulator](https://github.com/kegodev/dinglo-simple-pendulum-simulator)
+
+An interactive virtual physics laboratory with live measurements, force vectors, energy analysis, graphs and CSV experiment records.
 
 ---
 
