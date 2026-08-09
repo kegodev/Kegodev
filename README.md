@@ -10,7 +10,7 @@
 
 <div align="center">
 
-Mangena Kegorapetse
+<h1>Mangena Kegorapetse</h1>
 
 Founder · Full-Stack Developer · Physical Sciences Student
 
