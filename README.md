@@ -55,8 +55,30 @@ Additional Tools
 06  Improve my full-stack engineering and AI integration skills
 07  Combine scientific knowledge with software engineering
 08  Contribute more to open-source projects
-```
-────────
+``
+
+## Developer Activity
+
+<div align="center">
+
+### Contribution Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kegodev&bg_color=ffffff&color=5C4632&line=D4A373&point=2B2118&area=true&area_color=D4A373&hide_border=true"
+  width="100%"
+  alt="Mangena Kegorapetse GitHub contribution activity"
+/>
+
+<br>
+
+### Contribution Streak
+
+<img
+  src="https://streak-stats.demolab.com?user=kegodev&hide_border=true&background=FFFFFF&ring=D4A373&fire=5C4632&currStreakLabel=2B2118&sideLabels=5C4632&dates=777777&currStreakNum=2B2118&sideNums=2B2118"
+  alt="Mangena Kegorapetse GitHub streak"
+/>
+
+</div>
 
 <h2> Areas I Want to Build In</h2>
 
