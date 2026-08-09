@@ -21,10 +21,6 @@ Founder · Full-Stack Developer · Physical Sciences Student
 
 <br/><br/>
 
-I build practical digital products at the intersection of software, science, education and business.
-
-My journey in technology has taken an unconventional path — from physical sciences and laboratory work to building full-stack applications, educational platforms, virtual laboratories and commercial digital products.
-
 </div>
 
 ────────
@@ -40,12 +36,6 @@ Focus       Full-Stack · EdTech · Scientific Software · AI
 Building    KM Digital Labs + Dinglo
 GitHub      @kegodev
 ```
-
-I am a final-year Bachelor of Science in Physical Sciences student majoring in Biochemistry and Chemistry, while independently building software products and growing technology ventures.
-
-My scientific background shapes the way I approach development: observe the problem, understand the system, test the solution, analyse the results and improve the product.
-
-I am especially interested in software that solves practical problems in education, laboratories, small businesses and academic institutions.
 
 ────────
 
@@ -141,10 +131,6 @@ Science × Software
 
 </div>
 
-My academic interests include biochemistry, molecular biology, analytical chemistry, organic chemistry, physical chemistry, scientific data analysis, laboratory methods and science education.
-
-What makes my development path different is that I do not see science and software as separate disciplines. I am interested in using computation to improve how scientific concepts are taught, simulated, measured, analysed and understood.
-
 ────────
 
 Current Focus
@@ -159,18 +145,6 @@ Current Focus
 07  Combine scientific knowledge with software engineering
 08  Contribute more to open-source projects
 ```
-
-────────
-
-GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kegodev&show_icons=true&hide_border=false&bg_color=F6F1EA&title_color=2B2118&text_color=5C4632&icon_color=D4A373&border_color=D7C2AD&rank_icon=github" alt="Mangena Kegorapetse GitHub stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kegodev&layout=compact&hide_border=false&bg_color=F6F1EA&title_color=2B2118&text_color=5C4632&border_color=D7C2AD" alt="Most used languages"/>
-
-</div>
 
 ────────
 
