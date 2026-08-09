@@ -23,7 +23,7 @@ Founder · Full-Stack Developer · Physical Sciences Student
 
 </div>
 
-<h2>Languages · Frameworks · Tools</h2>h2>
+<h2>Languages · Frameworks · Tools</h2>
 
 <div align="center">
 
