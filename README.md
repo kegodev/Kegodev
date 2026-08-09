@@ -1,143 +1,123 @@
-# Mangena Kegorapetse
+<!--
+  Mangena Kegorapetse — GitHub Profile README
+  Palette:
+  Espresso  #2B2118
+  Cocoa     #5C4632
+  Sand      #D4A373
+  Cream     #F6F1EA
+  Ink       #111111
+-->
 
-**Founder · Full-Stack Developer · Physical Sciences Student**
+<div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/kegodev?label=Follow&style=social)](https://github.com/kegodev)
+<h1>Mangena Kegorapetse</h1>
 
-I build practical digital products for businesses, students and educational institutions. My work includes premium websites, e-commerce platforms, virtual laboratories, learning systems, developer tools and AI-assisted applications.
+Founder · Full-Stack Developer · Physical Sciences Student
 
-I am also a final-year **Bachelor of Science in Physical Sciences** student, majoring in **Biochemistry and Chemistry**. My scientific background influences my approach to software development, particularly in educational technology, scientific simulations and digital laboratory tools.
+<img src="https://img.shields.io/badge/BUILDING-SOFTWARE-2B2118?style=for-the-badge" alt="Building software"/>
+<img src="https://img.shields.io/badge/SCIENCE-BIOCHEMISTRY%20%26%20CHEMISTRY-D4A373?style=for-the-badge&labelColor=5C4632" alt="Biochemistry and Chemistry"/>
+<img src="https://img.shields.io/badge/FOUNDER-KM%20DIGITAL%20LABS-111111?style=for-the-badge" alt="KM Digital Labs"/>
+<img src="https://img.shields.io/badge/BUILDING-DINGLO-F6F1EA?style=for-the-badge&labelColor=2B2118&color=D4A373" alt="Dinglo"/>
 
-I am currently focused on expanding **KM Digital Labs** and developing **Dinglo** into a complete digital-learning ecosystem.
+<br/><br/>
 
----
+</div>
 
-## Academic Background
+<h2>Languages · Frameworks · Tools</h2>
 
-### Bachelor of Science in Physical Sciences
+<div align="center">
 
-**Majors:** Biochemistry and Chemistry  
-**Current status:** Final-year student
+Frontend
 
-My academic interests include:
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend skills"/>
 
-- Biochemistry
-- Molecular biology
-- Analytical chemistry
-- Organic chemistry
-- Physical chemistry
-- Scientific data analysis
-- Laboratory methods
-- Science education
-- Computational and digital learning tools
+Backend · Data · Development
 
-I combine scientific knowledge with software development to create products that address practical educational, laboratory and institutional challenges.
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,git,github,vscode,npm&theme=dark" alt="Backend and development tools"/>
 
----
+Additional Tools
 
-## Companies
+<img src="https://skillicons.dev/icons?i=python,figma,vercel,netlify&theme=dark" alt="Additional tools"/>
 
-### [KM Digital Labs](https://kmdlabs.page.gd) — Founder
+</div>
 
-KM Digital Labs designs, develops, deploys and maintains digital products for businesses and institutions.
+<br/>
 
-**Services include:**
+<h2>Current Focus</h2>
 
-- Business websites
-- E-commerce platforms
-- Custom web applications
-- Educational software
-- Virtual laboratory simulations
-- Administrative dashboards
-- AI and API integrations
-- Technical support after deployment
+```text
+01  Complete my BSc in Physical Sciences
+02  Expand Dinglo into a complete digital-learning ecosystem
+03  Grow KM Digital Labs and build commercial software
+04  Develop more virtual science laboratory simulations
+05  Build useful products for students, businesses and institutions
+06  Improve my full-stack engineering and AI integration skills
+07  Combine scientific knowledge with software engineering
+08  Contribute more to open-source projects
+```
 
-### [Dinglo](https://dingloedu.kesug.com) — Founder
+<h2>Developer Activity</h2>
 
-Dinglo is a digital education platform designed to make academic content more accessible, structured and interactive.
+<div align="center">
 
-The platform includes:
+<h3>Contribution Activity</h3>
 
-- Integrated study applications
-- Exam-focused study guides
-- Interactive quizzes
-- Learner progress records
-- Subject-specific AI tutors
-- University and Grade 12 learning resources
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kegodev&bg_color=ffffff&color=5C4632&line=D4A373&point=2B2118&area=true&area_color=D4A373&hide_border=true"
+  width="100%"
+  alt="Mangena Kegorapetse GitHub contribution activity"
+/>
 
----
+<br/>
 
-## Featured Projects
+<h3>Contribution Streak</h3>
 
-### [Dinglo Photoelectric Effect Simulator](https://github.com/kegodev/dinglo-photoelectric-effect-simulator)
+<img
+  src="https://streak-stats.demolab.com?user=kegodev&hide_border=true&background=FFFFFF&ring=D4A373&fire=5C4632&currStreakLabel=2B2118&sideLabels=5C4632&dates=777777&currStreakNum=2B2118&sideNums=2B2118"
+  alt="Mangena Kegorapetse GitHub streak"
+/>
 
-A virtual physics laboratory for studying the photoelectric effect, collecting current-voltage measurements, determining stopping potentials and estimating Planck’s constant.
+</div>
 
-The simulator is designed to support practical science education where access to physical laboratory equipment may be limited.
+<h2>Areas I Want to Build In</h2>
 
-### [Lashed by Tshego](https://github.com/kegodev/Lashed-by-Tshego)
+<div align="center">
 
-A luxury beauty-service website developed for a client, featuring service presentation, pricing information, responsive design, animations and WhatsApp-based booking.
+<img src="https://img.shields.io/badge/EDTECH-2B2118?style=for-the-badge" alt="EdTech"/>
+<img src="https://img.shields.io/badge/SCIENTIFIC%20SOFTWARE-5C4632?style=for-the-badge" alt="Scientific Software"/>
+<img src="https://img.shields.io/badge/VIRTUAL%20LABS-D4A373?style=for-the-badge&labelColor=5C4632" alt="Virtual Labs"/>
+<img src="https://img.shields.io/badge/AI%20IN%20EDUCATION-F6F1EA?style=for-the-badge&labelColor=2B2118&color=D4A373" alt="AI in Education"/>
+<img src="https://img.shields.io/badge/FULL--STACK%20SYSTEMS-111111?style=for-the-badge" alt="Full Stack Systems"/>
 
-### [KM Digital Labs CodeSpace](https://github.com/kegodev/kmdlabs-codespace)
+</div>
 
-A browser-based coding environment for writing and previewing HTML, CSS and JavaScript projects.
+<h2>Connect With Me</h2>
 
-### [Dinglo Physics Solver](https://github.com/kegodev/Dinglo-Physics-Solver)
+<div align="center">
 
-A Python mechanics solver that shows formulas, substitutions and step-by-step answers for Newton's laws, momentum, projectiles, work and energy.
+<a href="mailto:services.kmdlabs@outlook.com">
+  <img src="https://img.shields.io/badge/EMAIL-services.kmdlabs%40outlook.com-2B2118?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+</a>
 
-### [Dinglo Simple Pendulum Simulator](https://github.com/kegodev/dinglo-simple-pendulum-simulator)
+<a href="https://github.com/kegodev">
+  <img src="https://img.shields.io/badge/GITHUB-kegodev-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-An interactive virtual physics laboratory with live measurements, force vectors, energy analysis, graphs and CSV experiment records.
+<a href="https://www.instagram.com/dev.kegorapetse/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-dev.kegorapetse-D4A373?style=for-the-badge&logo=instagram&logoColor=111111" alt="Instagram"/>
+</a>
 
----
+</div>
 
-## Technical Skills
+<br/>
 
-| Area | Technologies and Capabilities |
-| :--- | :--- |
-| **Frontend Development** | HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS and TypeScript |
-| **Backend Development** | Supabase, Node.js, authentication, databases, storage and access control |
-| **AI Integration** | Gemini API, large language model integrations and subject-specific educational assistants |
-| **E-Commerce** | Product management, variants, coupons, order tracking and administrative dashboards |
-| **Deployment** | GitHub Pages, InfinityFree, domain configuration and production maintenance |
-| **Product Development** | UI/UX design, responsive interfaces, documentation and client handover |
-| **Scientific Software** | Virtual laboratories, scientific simulations, educational tools and data-driven applications |
+<div align="center">
 
----
+Building practical digital products at the intersection of science, education, business and technology.
 
-## Scientific and Technical Interests
+<br/><br/>
 
-- Educational technology
-- Scientific software development
-- Virtual laboratory simulations
-- Biochemistry and chemistry learning tools
-- Artificial intelligence in education
-- Data analysis and visualisation
-- Digital systems for academic institutions
-- Full-stack web application development
+<strong>Mangena Kegorapetse</strong><br/>
+Founder · Full-Stack Developer · Physical Sciences Student
 
----
-
-## Current Focus
-
-- Completing my BSc in Physical Sciences
-- Expanding the Dinglo education platform
-- Developing virtual science laboratory simulations
-- Building commercial software through KM Digital Labs
-- Creating digital products for students and small businesses
-- Improving full-stack development and AI integration skills
-- Combining scientific knowledge with software engineering
-
----
-
-## Contact
-
-- **Website:** [KM Digital Labs](https://kmdlabs.page.gd)
-- **Email:** [services.kmdlabs@outlook.com](mailto:services.kmdlabs@outlook.com)
-- **GitHub:** [@kegodev](https://github.com/kegodev)
-
----
-
-> Building practical digital products at the intersection of science, education, business and technology.
+</div>
