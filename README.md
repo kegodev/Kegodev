@@ -55,7 +55,7 @@ What I’m Building
 <tr>
 <td width="50%" valign="top">
 
-KM Digital Labs
+<b>KM Digital Labs</b>
 
 Founder
 
@@ -75,7 +75,7 @@ I build:
 </td>
 <td width="50%" valign="top">
 
-Dinglo
+<b>Dinglo</b>
 
 Founder
 
@@ -147,52 +147,6 @@ What makes my development path different is that I do not see science and softwa
 
 ────────
 
-Featured Projects
-
-Dinglo Photoelectric Effect Simulator
-
-A virtual physics laboratory for studying the photoelectric effect.
-
-It supports current-voltage measurements, stopping-potential analysis and estimation of Planck’s constant, giving learners a practical digital experiment where physical laboratory equipment may not be available.
-
-Focus: Scientific Simulation Physics Virtual Laboratory Education
-
-────────
-
-Dinglo Physics Solver
-
-A Python mechanics solver designed to show more than the final answer.
-
-It presents formulas, substitutions and step-by-step solutions for Newton’s laws, momentum, projectile motion, work and energy.
-
-Focus: Python Physics Education Problem Solving
-
-────────
-
-Dinglo Simple Pendulum Simulator
-
-An interactive virtual laboratory featuring live measurements, force vectors, energy analysis, graphs and CSV experiment records.
-
-Focus: Simulation Data Physics Virtual Laboratory
-
-────────
-
-KM Digital Labs CodeSpace
-
-A browser-based coding environment for writing and previewing HTML, CSS and JavaScript projects.
-
-Focus: Developer Tools Frontend Education
-
-────────
-
-Lashed by Tshego
-
-A luxury beauty-service website developed for a client with responsive design, service presentation, pricing, animations and WhatsApp-based booking.
-
-Focus: Client Work Responsive Design Business Website
-
-────────
-
 Current Focus
 
 ```text
@@ -236,26 +190,6 @@ I value contributions that are small, useful and technically sound over changes 
 </a>
 
 </div>
-
-────────
-
-Academic Background
-
-Bachelor of Science in Physical Sciences
-
-Majors: Biochemistry & Chemistry
-Status: Final-year student
-
-My scientific interests extend into:
-
-• Molecular biology
-• Laboratory methods
-• Scientific data analysis
-• Science education
-• Computational learning tools
-• Digital laboratory systems
-• Scientific visualisation
-• Technology for academic institutions
 
 ────────
 
