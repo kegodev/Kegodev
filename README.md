@@ -23,9 +23,7 @@ Founder · Full-Stack Developer · Physical Sciences Student
 
 </div>
 
-────────
-
-Languages · Frameworks · Tools
+<h2>Languages · Frameworks · Tools</h2>h2>
 
 <div align="center">
 
@@ -45,9 +43,8 @@ Additional Tools
 
 <br/>
 
-────────
 
-Current Focus
+<h2>Current Focus</h2>
 
 ```text
 01  Complete my BSc in Physical Sciences
@@ -61,7 +58,7 @@ Current Focus
 ```
 ────────
 
-Areas I Want to Build In
+<h2> Areas I Want to Build In</h2>
 
 <div align="center">
 
@@ -73,9 +70,7 @@ Areas I Want to Build In
 
 </div>
 
-────────
-
-Connect With Me
+<h2>Connect With Me</h2>
 
 <div align="center">
 
@@ -93,7 +88,6 @@ Connect With Me
 
 </div>
 
-────────
 
 <div align="center">
 
