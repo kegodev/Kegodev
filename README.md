@@ -66,20 +66,7 @@ Additional Tools
 |**E-Commerce**         |Product management · Variants · Coupons · Order tracking · Admin dashboards            |
 |**Deployment**         |GitHub Pages · InfinityFree · Vercel · Netlify · Domain configuration                  |
 |**Scientific Software**|Virtual laboratories · Simulations · Data tools · Educational applications             |
-|**Product Development**|UI/UX · Responsive design · Documentation · Deployment · Client handover               |
-
-────────
-
-Science × Software
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BIOCHEMISTRY-2B2118?style=for-the-badge" alt="Biochemistry"/>
-<img src="https://img.shields.io/badge/ANALYTICAL%20CHEMISTRY-5C4632?style=for-the-badge" alt="Analytical Chemistry"/>
-<img src="https://img.shields.io/badge/ORGANIC%20CHEMISTRY-D4A373?style=for-the-badge&labelColor=5C4632" alt="Organic Chemistry"/>
-<img src="https://img.shields.io/badge/PHYSICAL%20CHEMISTRY-F6F1EA?style=for-the-badge&labelColor=2B2118&color=D4A373" alt="Physical Chemistry"/>
-
-</div>
+|**Product Development**|UI/UX · Responsive design · Documentation · Deployment · Client handover           
 
 ────────
 
@@ -95,26 +82,6 @@ Current Focus
 07  Combine scientific knowledge with software engineering
 08  Contribute more to open-source projects
 ```
-
-────────
-
-Open Source
-
-I am actively building my open-source contribution history by working on real repositories, submitting pull requests and learning from maintainers.
-
-I value contributions that are small, useful and technically sound over changes made only to increase contribution counts.
-
-<div align="center">
-
-<a href="https://github.com/kegodev?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20MY%20REPOSITORIES-2B2118?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
-</a>
-<a href="https://github.com/kegodev?tab=stars">
-  <img src="https://img.shields.io/badge/GITHUB-@kegodev-D4A373?style=for-the-badge&logo=github&logoColor=111111" alt="@kegodev"/>
-</a>
-
-</div>
-
 ────────
 
 Areas I Want to Build In
