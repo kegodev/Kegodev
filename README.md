@@ -43,7 +43,6 @@ Additional Tools
 
 <br/>
 
-
 <h2>Current Focus</h2>
 
 ```text
@@ -55,15 +54,13 @@ Additional Tools
 06  Improve my full-stack engineering and AI integration skills
 07  Combine scientific knowledge with software engineering
 08  Contribute more to open-source projects
-``
+```
 
-
-
-<h2> Developer Activity </h2>
+<h2>Developer Activity</h2>
 
 <div align="center">
 
-### Contribution Activity
+<h3>Contribution Activity</h3>
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=kegodev&bg_color=ffffff&color=5C4632&line=D4A373&point=2B2118&area=true&area_color=D4A373&hide_border=true"
@@ -71,9 +68,9 @@ Additional Tools
   alt="Mangena Kegorapetse GitHub contribution activity"
 />
 
-<br>
+<br/>
 
-<h2> Contribution Streak <h2>
+<h3>Contribution Streak</h3>
 
 <img
   src="https://streak-stats.demolab.com?user=kegodev&hide_border=true&background=FFFFFF&ring=D4A373&fire=5C4632&currStreakLabel=2B2118&sideLabels=5C4632&dates=777777&currStreakNum=2B2118&sideNums=2B2118"
@@ -82,7 +79,7 @@ Additional Tools
 
 </div>
 
-<h2> Areas I Want to Build In</h2>
+<h2>Areas I Want to Build In</h2>
 
 <div align="center">
 
@@ -112,12 +109,15 @@ Additional Tools
 
 </div>
 
+<br/>
 
 <div align="center">
 
 Building practical digital products at the intersection of science, education, business and technology.
 
-Mangena Kegorapetse
+<br/><br/>
+
+<strong>Mangena Kegorapetse</strong><br/>
 Founder · Full-Stack Developer · Physical Sciences Student
 
 </div>
