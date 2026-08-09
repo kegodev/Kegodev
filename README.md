@@ -36,56 +36,6 @@ Focus       Full-Stack · EdTech · Scientific Software · AI
 Building    KM Digital Labs + Dinglo
 GitHub      @kegodev
 ```
-
-────────
-
-What I’m Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<b>KM Digital Labs</b>
-
-Founder
-
-KM Digital Labs designs, develops, deploys and maintains digital products for businesses and institutions.
-
-I build:
-
-• Business websites
-• E-commerce platforms
-• Full-stack web applications
-• Administrative dashboards
-• Educational software
-• Virtual laboratory simulations
-• AI & API integrations
-• Digital products and developer tools
-
-</td>
-<td width="50%" valign="top">
-
-<b>Dinglo</b>
-
-Founder
-
-Dinglo is a digital-learning ecosystem designed to make academic content more accessible, structured and interactive.
-
-The ecosystem includes:
-
-• Integrated study applications
-• Exam-focused study guides
-• Interactive quizzes
-• Learner progress records
-• Subject-specific AI tutors
-• University learning resources
-• Grade 12 learning resources
-• Virtual science tools
-
-</td>
-</tr>
-</table>
-
 ────────
 
 Languages · Frameworks · Tools
