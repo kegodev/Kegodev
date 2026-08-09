@@ -25,19 +25,6 @@ Founder · Full-Stack Developer · Physical Sciences Student
 
 ────────
 
-About Me
-
-```text
-Name        Mangena Kegorapetse
-Role        Founder & Full-Stack Developer
-Degree      BSc Physical Sciences
-Majors      Biochemistry + Chemistry
-Focus       Full-Stack · EdTech · Scientific Software · AI
-Building    KM Digital Labs + Dinglo
-GitHub      @kegodev
-```
-────────
-
 Languages · Frameworks · Tools
 
 <div align="center">
@@ -57,16 +44,6 @@ Additional Tools
 </div>
 
 <br/>
-
-|Area                   |Technologies & Capabilities                                                            |
-|-----------------------|---------------------------------------------------------------------------------------|
-|**Frontend**           |HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS                |
-|**Backend**            |Supabase · Node.js · PostgreSQL · Authentication · Databases · Storage · Access Control|
-|**AI Integration**     |Gemini API · LLM integrations · Subject-specific educational assistants                |
-|**E-Commerce**         |Product management · Variants · Coupons · Order tracking · Admin dashboards            |
-|**Deployment**         |GitHub Pages · InfinityFree · Vercel · Netlify · Domain configuration                  |
-|**Scientific Software**|Virtual laboratories · Simulations · Data tools · Educational applications             |
-|**Product Development**|UI/UX · Responsive design · Documentation · Deployment · Client handover           
 
 ────────
 
