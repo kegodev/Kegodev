@@ -43,19 +43,6 @@ Additional Tools
 
 <br/>
 
-<h2>Current Focus</h2>
-
-```text
-01  Complete my BSc in Physical Sciences
-02  Expand Dinglo into a complete digital-learning ecosystem
-03  Grow KM Digital Labs and build commercial software
-04  Develop more virtual science laboratory simulations
-05  Build useful products for students, businesses and institutions
-06  Improve my full-stack engineering and AI integration skills
-07  Combine scientific knowledge with software engineering
-08  Contribute more to open-source projects
-```
-
 <h2>Developer Activity</h2>
 
 <div align="center">
