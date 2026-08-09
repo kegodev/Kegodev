@@ -14,7 +14,7 @@
 
 Founder · Full-Stack Developer · Physical Sciences Student
 
-<img src="https://img.shields.io/badge/BUILDING-SOFTWARE-2B2118?style=for-the-badge" alt="Building software"/>
+<img src="https://img.shields.io/badge/BUILDING-SOFTWARE-2B2118?style=for-the-badge" alt="Full stack probects"/>
 <img src="https://img.shields.io/badge/SCIENCE-BIOCHEMISTRY%20%26%20CHEMISTRY-D4A373?style=for-the-badge&labelColor=5C4632" alt="Biochemistry and Chemistry"/>
 <img src="https://img.shields.io/badge/FOUNDER-KM%20DIGITAL%20LABS-111111?style=for-the-badge" alt="KM Digital Labs"/>
 <img src="https://img.shields.io/badge/BUILDING-DINGLO-F6F1EA?style=for-the-badge&labelColor=2B2118&color=D4A373" alt="Dinglo"/>
