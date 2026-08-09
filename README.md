@@ -57,7 +57,9 @@ Additional Tools
 08  Contribute more to open-source projects
 ``
 
-## Developer Activity
+
+
+<h2> Developer Activity </h2>
 
 <div align="center">
 
@@ -71,7 +73,7 @@ Additional Tools
 
 <br>
 
-### Contribution Streak
+<h2> Contribution Streak <h2>
 
 <img
   src="https://streak-stats.demolab.com?user=kegodev&hide_border=true&background=FFFFFF&ring=D4A373&fire=5C4632&currStreakLabel=2B2118&sideLabels=5C4632&dates=777777&currStreakNum=2B2118&sideNums=2B2118"
