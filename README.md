@@ -1,10 +1,10 @@
 <!--
   Mangena Kegorapetse — GitHub Profile README
-  Aurora palette:
-  Midnight       #0D1117
-  Electric Cyan  #22D3EE
-  Violet         #8B5CF6
-  Hot Pink       #EC4899
+  Horizon palette:
+  Deep Navy      #0B1120
+  Sky Blue       #0EA5E9
+  Mint           #34D399
+  Amber          #F59E0B
   Soft White     #F8FAFC
 -->
 
@@ -12,18 +12,21 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=cylinder&amp;color=0:8B5CF6,50:0891B2,100:DB2777&amp;height=190&amp;section=header&amp;text=Mangena%20Kegorapetse&amp;fontSize=42&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Founder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Physical%20Sciences%20Student&amp;descAlignY=62&amp;descSize=15"
-alt="Mangena Kegorapetse — Founder, Full-Stack Developer, and Physical Sciences Student"
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0EA5E9,50:14B8A6,100:F59E0B&amp;height=170&amp;section=header&amp;text=Mangena%20Kegorapetse&amp;fontSize=42&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=36"
+alt="Mangena Kegorapetse"
 />
 
-<img src="https://img.shields.io/badge/OPEN%20FOR-COLLABORATIONS-0891B2?style=for-the-badge&amp;labelColor=0D1117" alt="Open for collaborations"/>
-<img src="https://img.shields.io/badge/SCIENCE-BIOCHEMISTRY%20%26%20CHEMISTRY-7C3AED?style=for-the-badge&amp;labelColor=0D1117" alt="Biochemistry and Chemistry"/>
-<img src="https://img.shields.io/badge/FOUNDER-KM%20DIGITAL%20LABS-DB2777?style=for-the-badge&amp;labelColor=0D1117" alt="Founder of KM Digital Labs"/>
-<img src="https://img.shields.io/badge/BUILDING-DINGLO-059669?style=for-the-badge&amp;labelColor=0D1117" alt="Building Dinglo"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=17&amp;duration=2800&amp;pause=700&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=940&amp;height=66&amp;lines=Founder+%C2%B7+Full-Stack+Developer+%C2%B7+Physical+Sciences+Student;Building+practical+digital+products+at+the+intersection+of+science%2C+education%2C+business%2C+and+technology."
+alt="Founder · Full-Stack Developer · Physical Sciences Student. Building practical digital products at the intersection of science, education, business, and technology."
+/>
 
-<br/><br/>
+<br/>
 
-<em>Building practical digital products at the intersection of science, education, business, and technology\.</em>
+<img src="https://img.shields.io/badge/OPEN%20FOR-COLLABORATIONS-0EA5E9?style=for-the-badge&amp;labelColor=0B1120" alt="Open for collaborations"/>
+<img src="https://img.shields.io/badge/SCIENCE-BIOCHEMISTRY%20%26%20CHEMISTRY-14B8A6?style=for-the-badge&amp;labelColor=0B1120" alt="Biochemistry and Chemistry"/>
+<img src="https://img.shields.io/badge/FOUNDER-KM%20DIGITAL%20LABS-F59E0B?style=for-the-badge&amp;labelColor=0B1120" alt="Founder of KM Digital Labs"/>
+<img src="https://img.shields.io/badge/BUILDING-DINGLO-34D399?style=for-the-badge&amp;labelColor=0B1120" alt="Building Dinglo"/>
 
 </div>
 
@@ -56,14 +59,14 @@ alt="Mangena Kegorapetse — Founder, Full-Stack Developer, and Physical Science
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/INTERACTIVE%20SCIENCE-8B5CF6?style=flat-square&amp;labelColor=0D1117" alt="Interactive science"/></p>
+      <p><img src="https://img.shields.io/badge/INTERACTIVE%20SCIENCE-34D399?style=flat-square&amp;labelColor=0B1120" alt="Interactive science"/></p>
       <h3><a href="https://github.com/kegodev/open-physics-lab">Dinglo Open Physics Lab</a></h3>
       <p>Five browser-based physics experiments designed for active learning and first-time contributors.</p>
       <p><code>JavaScript</code> <code>Physics</code> <code>EdTech</code></p>
       <p><a href="https://kegodev.github.io/open-physics-lab/"><strong>Launch lab</strong></a> · <a href="https://github.com/kegodev/open-physics-lab"><strong>Source</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/BROWSER%20AI-DB2777?style=flat-square&amp;labelColor=0D1117" alt="Browser AI"/></p>
+      <p><img src="https://img.shields.io/badge/BROWSER%20AI-F59E0B?style=flat-square&amp;labelColor=0B1120" alt="Browser AI"/></p>
       <h3><a href="https://github.com/kegodev/picklo">Picklo</a></h3>
       <p>A local-first AI assistant with safe tool routing, memory, file search, notes and sandboxed JavaScript preparation.</p>
       <p><code>JavaScript</code> <code>AI</code> <code>Privacy-first</code></p>
@@ -77,7 +80,7 @@ alt="Mangena Kegorapetse — Founder, Full-Stack Developer, and Physical Science
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=kegodev&amp;bg_color=0D1117&amp;color=22D3EE&amp;line=8B5CF6&amp;point=EC4899&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity"
+src="https://github-readme-activity-graph.vercel.app/graph?username=kegodev&amp;bg_color=0B1120&amp;color=38BDF8&amp;line=34D399&amp;point=F59E0B&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity"
 width="100%"
 alt="Mangena Kegorapetse's GitHub contribution activity graph"
 />
@@ -91,7 +94,7 @@ alt="Mangena Kegorapetse's GitHub contribution activity graph"
 <h3>Contribution Streak</h3>
 
 <img
-src="https://streak-stats.demolab.com?user=kegodev&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=8B5CF6&amp;fire=EC4899&amp;currStreakLabel=22D3EE&amp;sideLabels=CBD5E1&amp;dates=64748B&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC"
+src="https://streak-stats.demolab.com?user=kegodev&amp;hide_border=true&amp;background=0B1120&amp;stroke=1E293B&amp;ring=34D399&amp;fire=F59E0B&amp;currStreakLabel=38BDF8&amp;sideLabels=BAE6FD&amp;dates=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC"
 alt="Mangena Kegorapetse's GitHub contribution streak"
 />
 
@@ -101,11 +104,11 @@ alt="Mangena Kegorapetse's GitHub contribution streak"
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/EDTECH-7C3AED?style=for-the-badge" alt="EdTech"/>
-<img src="https://img.shields.io/badge/SCIENTIFIC%20SOFTWARE-0891B2?style=for-the-badge" alt="Scientific Software"/>
-<img src="https://img.shields.io/badge/VIRTUAL%20LABS-DB2777?style=for-the-badge" alt="Virtual Labs"/>
-<img src="https://img.shields.io/badge/AI%20IN%20EDUCATION-059669?style=for-the-badge" alt="AI in Education"/>
-<img src="https://img.shields.io/badge/FULL--STACK%20SYSTEMS-334155?style=for-the-badge" alt="Full-Stack Systems"/>
+<img src="https://img.shields.io/badge/EDTECH-14B8A6?style=for-the-badge" alt="EdTech"/>
+<img src="https://img.shields.io/badge/SCIENTIFIC%20SOFTWARE-0EA5E9?style=for-the-badge" alt="Scientific Software"/>
+<img src="https://img.shields.io/badge/VIRTUAL%20LABS-F59E0B?style=for-the-badge" alt="Virtual Labs"/>
+<img src="https://img.shields.io/badge/AI%20IN%20EDUCATION-34D399?style=for-the-badge" alt="AI in Education"/>
+<img src="https://img.shields.io/badge/FULL--STACK%20SYSTEMS-1E293B?style=for-the-badge" alt="Full-Stack Systems"/>
 
 </div>
 
@@ -114,15 +117,15 @@ alt="Mangena Kegorapetse's GitHub contribution streak"
 <div align="center">
 
 <a href="mailto:services.kmdlabs@outlook.com">
-  <img src="https://img.shields.io/badge/EMAIL-services.kmdlabs%40outlook.com-0891B2?style=for-the-badge&amp;labelColor=0D1117&amp;logo=microsoftoutlook&amp;logoColor=white" alt="Email services.kmdlabs@outlook.com"/>
+  <img src="https://img.shields.io/badge/EMAIL-services.kmdlabs%40outlook.com-0EA5E9?style=for-the-badge&amp;labelColor=0B1120&amp;logo=microsoftoutlook&amp;logoColor=white" alt="Email services.kmdlabs@outlook.com"/>
 </a>
 
 <a href="https://github.com/kegodev">
-  <img src="https://img.shields.io/badge/GITHUB-kegodev-7C3AED?style=for-the-badge&amp;labelColor=0D1117&amp;logo=github&amp;logoColor=white" alt="GitHub profile: kegodev"/>
+  <img src="https://img.shields.io/badge/GITHUB-kegodev-14B8A6?style=for-the-badge&amp;labelColor=0B1120&amp;logo=github&amp;logoColor=white" alt="GitHub profile: kegodev"/>
 </a>
 
 <a href="https://www.instagram.com/dev.kegorapetse/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-dev.kegorapetse-DB2777?style=for-the-badge&amp;labelColor=0D1117&amp;logo=instagram&amp;logoColor=white" alt="Instagram profile: dev.kegorapetse"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-dev.kegorapetse-F59E0B?style=for-the-badge&amp;labelColor=0B1120&amp;logo=instagram&amp;logoColor=white" alt="Instagram profile: dev.kegorapetse"/>
 </a>
 
 <br/><br/>
@@ -134,7 +137,7 @@ Founder · Full\-Stack Developer · Physical Sciences Student
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:DB2777,50:0891B2,100:8B5CF6&amp;height=85&amp;section=footer&amp;text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&amp;fontSize=18&amp;fontColor=F8FAFC&amp;animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F59E0B,50:0EA5E9,100:34D399&amp;height=85&amp;section=footer&amp;text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&amp;fontSize=18&amp;fontColor=F8FAFC&amp;animation=fadeIn"
 alt="Build, learn, create — aurora gradient footer"
 />
 
