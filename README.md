@@ -27,7 +27,7 @@ alt="Mangena Kegorapetse — Founder, Full-Stack Developer, and Physical Science
 
 </div>
 
-## ⚡ Languages · Frameworks · Tools
+## Languages · Frameworks · Tools
 
 <div align="center">
 
@@ -57,17 +57,17 @@ alt="Mangena Kegorapetse — Founder, Full-Stack Developer, and Physical Science
   <tr>
     <td width="50%" valign="top">
       <p><img src="https://img.shields.io/badge/INTERACTIVE%20SCIENCE-8B5CF6?style=flat-square&amp;labelColor=0D1117" alt="Interactive science"/></p>
-      <h3>⚛️ <a href="https://github.com/kegodev/open-physics-lab">Dinglo Open Physics Lab</a></h3>
+      <h3><a href="https://github.com/kegodev/open-physics-lab">Dinglo Open Physics Lab</a></h3>
       <p>Five browser-based physics experiments designed for active learning and first-time contributors.</p>
       <p><code>JavaScript</code> <code>Physics</code> <code>EdTech</code></p>
-      <p><a href="https://kegodev.github.io/open-physics-lab/"><strong>Launch lab ↗</strong></a> · <a href="https://github.com/kegodev/open-physics-lab"><strong>Source</strong></a></p>
+      <p><a href="https://kegodev.github.io/open-physics-lab/"><strong>Launch lab</strong></a> · <a href="https://github.com/kegodev/open-physics-lab"><strong>Source</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <p><img src="https://img.shields.io/badge/BROWSER%20AI-DB2777?style=flat-square&amp;labelColor=0D1117" alt="Browser AI"/></p>
-      <h3>🧠 <a href="https://github.com/kegodev/picklo">Picklo</a></h3>
+      <h3><a href="https://github.com/kegodev/picklo">Picklo</a></h3>
       <p>A local-first AI assistant with safe tool routing, memory, file search, notes and sandboxed JavaScript preparation.</p>
       <p><code>JavaScript</code> <code>AI</code> <code>Privacy-first</code></p>
-      <p><a href="https://github.com/kegodev/picklo"><strong>Explore project ↗</strong></a></p>
+      <p><a href="https://github.com/kegodev/picklo"><strong>Explore project</strong></a></p>
     </td>
   </tr>
 </table>
