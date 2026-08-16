@@ -56,26 +56,18 @@ alt="Mangena Kegorapetse — Founder, Full-Stack Developer, and Physical Science
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/kegodev/open-physics-lab">Dinglo Open Physics Lab</a></h3>
-      <p>Five interactive browser-based physics experiments built for active learning and first-time contributors.</p>
-      <p><a href="https://kegodev.github.io/open-physics-lab/"><strong>Live lab</strong></a> · <a href="https://github.com/kegodev/open-physics-lab"><strong>Source</strong></a></p>
+      <p><img src="https://img.shields.io/badge/INTERACTIVE%20SCIENCE-8B5CF6?style=flat-square&amp;labelColor=0D1117" alt="Interactive science"/></p>
+      <h3>⚛️ <a href="https://github.com/kegodev/open-physics-lab">Dinglo Open Physics Lab</a></h3>
+      <p>Five browser-based physics experiments designed for active learning and first-time contributors.</p>
+      <p><code>JavaScript</code> <code>Physics</code> <code>EdTech</code></p>
+      <p><a href="https://kegodev.github.io/open-physics-lab/"><strong>Launch lab ↗</strong></a> · <a href="https://github.com/kegodev/open-physics-lab"><strong>Source</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/kegodev/picklo">Picklo</a></h3>
-      <p>A local-first browser AI assistant with safe tool routing, memory, file search, notes and sandboxed JavaScript preparation.</p>
-      <p><a href="https://github.com/kegodev/picklo"><strong>Explore project</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kegodev/Dinglo-Physics-Solver">Dinglo Physics Solver</a></h3>
-      <p>A Python physics application with step-by-step mechanics calculations, regression tests and an API.</p>
-      <p><a href="https://github.com/kegodev/Dinglo-Physics-Solver"><strong>Explore project</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kegodev/Lashed-by-Tshego">Lashed by Tshego</a></h3>
-      <p>A mobile-first client booking experience with service selection, live pricing and WhatsApp integration.</p>
-      <p><a href="https://github.com/kegodev/Lashed-by-Tshego"><strong>View case study</strong></a></p>
+      <p><img src="https://img.shields.io/badge/BROWSER%20AI-DB2777?style=flat-square&amp;labelColor=0D1117" alt="Browser AI"/></p>
+      <h3>🧠 <a href="https://github.com/kegodev/picklo">Picklo</a></h3>
+      <p>A local-first AI assistant with safe tool routing, memory, file search, notes and sandboxed JavaScript preparation.</p>
+      <p><code>JavaScript</code> <code>AI</code> <code>Privacy-first</code></p>
+      <p><a href="https://github.com/kegodev/picklo"><strong>Explore project ↗</strong></a></p>
     </td>
   </tr>
 </table>
