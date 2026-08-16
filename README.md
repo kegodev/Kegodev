@@ -85,30 +85,14 @@ alt="Mangena Kegorapetse — Founder, Full-Stack Developer, and Physical Science
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:8B5CF6,50:0891B2,100:DB2777&amp;height=72&amp;section=header&amp;text=CONTRIBUTION%20CALENDAR&amp;fontSize=22&amp;fontColor=F8FAFC&amp;animation=fadeIn"
+src="https://github-readme-activity-graph.vercel.app/graph?username=kegodev&amp;bg_color=0D1117&amp;color=22D3EE&amp;line=8B5CF6&amp;point=EC4899&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity"
 width="100%"
-alt="Contribution Calendar"
+alt="Mangena Kegorapetse's GitHub contribution activity graph"
 />
 
 <br/>
 
-<sub><strong>Building, learning and shipping since June 2026.</strong></sub>
-
-<br/><br/>
-
-<img
-src="https://ghchart.rshah.org/8B5CF6/kegodev"
-width="100%"
-alt="Mangena Kegorapetse's GitHub contribution calendar"
-/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LESS-1E293B?style=flat-square&amp;labelColor=0D1117" alt="Fewer contributions"/>
-<img src="https://img.shields.io/badge/LOW-312E81?style=flat-square&amp;labelColor=312E81" alt="Low contribution activity"/>
-<img src="https://img.shields.io/badge/MEDIUM-6D28D9?style=flat-square&amp;labelColor=6D28D9" alt="Medium contribution activity"/>
-<img src="https://img.shields.io/badge/HIGH-8B5CF6?style=flat-square&amp;labelColor=8B5CF6" alt="High contribution activity"/>
-<img src="https://img.shields.io/badge/MORE-EC4899?style=flat-square&amp;labelColor=EC4899" alt="More contributions"/>
+<sub><strong>Building, learning and shipping since 21 June 2026.</strong></sub>
 
 <br/><br/>
 
