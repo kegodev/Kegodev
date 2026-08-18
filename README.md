@@ -82,7 +82,7 @@ alt="Founder · Full-Stack Developer · Physical Sciences Student. Building prac
 <a href="https://youtu.be/9iEn35vW8yU?si=nehM98iWN7y3Gd_L">
   <img
   src="https://img.youtube.com/vi/9iEn35vW8yU/hqdefault.jpg"
-  width="760"
+  width="760" hieght="350"
   alt="Watch the featured YouTube video"
   />
 </a>
