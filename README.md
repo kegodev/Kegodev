@@ -169,6 +169,10 @@ alt="Founder · Full-Stack Developer · Physical Sciences Student. Building prac
   <img src="https://img.shields.io/badge/INSTAGRAM-dev.kegorapetse-F97316?style=for-the-badge&amp;labelColor=0D0D0D&amp;logo=instagram&amp;logoColor=white" alt="Instagram profile: dev.kegorapetse"/>
 </a>
 
+<a href="https://www.instagram.com/kmdigitallabs/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-kmdigitallabs-F97316?style=for-the-badge&amp;labelColor=0D0D0D&amp;logo=instagram&amp;logoColor=white" alt="Instagram profile: kmdigitallabs"/>
+</a>
+
 <br/><br/>
 
 <strong>Mangena Kegorapetse</strong><br/>
