@@ -1,0 +1,98 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06111E"/>
+      <stop offset="1" stop-color="#0C1E33"/>
+    </linearGradient>
+    <linearGradient id="cyanPurple" x1="160" y1="60" x2="1180" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="softBlue" x1="780" y1="80" x2="1120" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#1D4ED8" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="blur40" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+    <style>
+      .eyebrow { font: 700 15px 'Segoe UI', Inter, Arial, sans-serif; fill:#7DD3FC; letter-spacing: 1.6px; }
+      .name { font: 800 56px 'Segoe UI', Inter, Arial, sans-serif; fill:#F8FAFC; }
+      .role { font: 700 24px 'Segoe UI', Inter, Arial, sans-serif; fill:#D8E5F3; }
+      .body { font: 500 19px 'Segoe UI', Inter, Arial, sans-serif; fill:#AFC4DA; }
+      .chip { font: 700 15px 'Segoe UI', Inter, Arial, sans-serif; fill:#E2E8F0; }
+      .mini { font: 700 13px 'JetBrains Mono', Consolas, monospace; fill:#8FB8D8; }
+      .code { font: 600 15px 'JetBrains Mono', Consolas, monospace; fill:#D8E5F3; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="12" y="12" width="1256" height="396" rx="22" fill="none" stroke="#173453"/>
+
+  <circle cx="1090" cy="105" r="76" fill="#38BDF8" opacity="0.18" filter="url(#blur40)"/>
+  <circle cx="1172" cy="292" r="92" fill="#8B5CF6" opacity="0.15" filter="url(#blur40)"/>
+  <circle cx="210" cy="72" r="48" fill="#0EA5E9" opacity="0.11" filter="url(#blur40)"/>
+
+  <!-- left copy -->
+  <text x="78" y="86" class="eyebrow">KM DIGITAL LABS · SOFTWARE · SCIENCE · EDUCATION</text>
+  <text x="78" y="154" class="name">Mangena Kegorapetse</text>
+  <text x="78" y="194" class="role">Founder · Full-Stack Developer · Physical Sciences Student</text>
+  <text x="78" y="246" class="body">Building practical digital products across software, science, education and business.</text>
+  <text x="78" y="275" class="body">Creating Picklo, Dinglo, Patient Desk and browser-based scientific tools.</text>
+
+  <!-- chips -->
+  <g filter="url(#shadow)">
+    <rect x="78" y="316" width="170" height="38" rx="19" fill="#0C2741" stroke="#1D4E89"/>
+    <text x="110" y="341" class="chip">KM Digital Labs</text>
+
+    <rect x="262" y="316" width="96" height="38" rx="19" fill="#0C2741" stroke="#1D4E89"/>
+    <text x="293" y="341" class="chip">Picklo</text>
+
+    <rect x="372" y="316" width="96" height="38" rx="19" fill="#0C2741" stroke="#1D4E89"/>
+    <text x="403" y="341" class="chip">Dinglo</text>
+
+    <rect x="482" y="316" width="150" height="38" rx="19" fill="#0C2741" stroke="#1D4E89"/>
+    <text x="514" y="341" class="chip">Patient Desk</text>
+
+    <rect x="646" y="316" width="196" height="38" rx="19" fill="#0C2741" stroke="#1D4E89"/>
+    <text x="679" y="341" class="chip">Scientific Software</text>
+  </g>
+
+  <!-- right design -->
+  <g filter="url(#shadow)">
+    <rect x="796" y="64" width="388" height="120" rx="22" fill="#071525" stroke="#1D4E89"/>
+    <circle cx="830" cy="94" r="6" fill="#EF4444"/>
+    <circle cx="850" cy="94" r="6" fill="#F59E0B"/>
+    <circle cx="870" cy="94" r="6" fill="#10B981"/>
+
+    <text x="826" y="124" class="mini">kegodev.dev / build()</text>
+    <text x="826" y="154" class="code">const focus = [</text>
+    <text x="846" y="178" class="code">'products', 'education', 'science'</text>
+    <text x="826" y="202" class="code">];</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="840" y="212" width="308" height="136" rx="24" fill="#071525" stroke="#1D4E89"/>
+    <path d="M884 306L928 252L975 286L1022 232L1088 294" stroke="url(#cyanPurple)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="884" cy="306" r="5.5" fill="#38BDF8"/>
+    <circle cx="928" cy="252" r="5.5" fill="#60A5FA"/>
+    <circle cx="975" cy="286" r="5.5" fill="#7C3AED"/>
+    <circle cx="1022" cy="232" r="5.5" fill="#22D3EE"/>
+    <circle cx="1088" cy="294" r="5.5" fill="#A78BFA"/>
+    <text x="880" y="244" class="mini">growth through consistent work</text>
+    <rect x="880" y="320" width="88" height="12" rx="6" fill="#11304F"/>
+    <rect x="976" y="320" width="58" height="12" rx="6" fill="#11304F"/>
+    <rect x="1042" y="320" width="76" height="12" rx="6" fill="#11304F"/>
+  </g>
+
+  <g opacity="0.72">
+    <path d="M732 70C772 98 780 144 756 182C730 222 734 268 776 308" stroke="url(#cyanPurple)" stroke-width="3"/>
+    <path d="M738 308C718 282 706 256 706 226C706 174 736 132 786 108" stroke="#1D4ED8" stroke-width="2.5" opacity="0.65"/>
+    <circle cx="774" cy="110" r="6" fill="#38BDF8"/>
+    <circle cx="746" cy="184" r="6" fill="#60A5FA"/>
+    <circle cx="770" cy="306" r="6" fill="#8B5CF6"/>
+  </g>
+</svg>

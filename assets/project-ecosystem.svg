@@ -1,0 +1,64 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07131F"/>
+      <stop offset="1" stop-color="#10263F"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <style>
+      .title { font: 800 30px 'Segoe UI', Inter, Arial, sans-serif; fill:#F8FAFC; }
+      .cardTitle { font: 800 20px 'Segoe UI', Inter, Arial, sans-serif; fill:#F8FAFC; }
+      .sub { font: 500 15px 'Segoe UI', Inter, Arial, sans-serif; fill:#ABC3D8; }
+      .centerTitle { font: 800 24px 'Segoe UI', Inter, Arial, sans-serif; fill:#F8FAFC; }
+      .centerSub { font: 500 16px 'Segoe UI', Inter, Arial, sans-serif; fill:#B7CADB; }
+      .pill { font: 700 13px 'Segoe UI', Inter, Arial, sans-serif; fill:#E5EEF8; }
+    </style>
+  </defs>
+  <rect width="1200" height="330" rx="26" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1196" height="326" rx="24" stroke="url(#edge)" opacity="0.8"/>
+
+  <text x="38" y="44" class="title">Project Ecosystem</text>
+
+  <path d="M600 132L340 95" stroke="url(#edge)" stroke-width="2.8" opacity="0.7"/>
+  <path d="M600 132L860 95" stroke="url(#edge)" stroke-width="2.8" opacity="0.7"/>
+  <path d="M600 198L340 235" stroke="url(#edge)" stroke-width="2.8" opacity="0.7"/>
+  <path d="M600 198L860 235" stroke="url(#edge)" stroke-width="2.8" opacity="0.7"/>
+
+  <!-- center -->
+  <rect x="464" y="92" width="272" height="144" rx="24" fill="#0A1B2D" stroke="#1D4E89"/>
+  <circle cx="522" cy="132" r="22" fill="#11314C"/>
+  <path d="M514 132H530" stroke="#7DD3FC" stroke-width="3" stroke-linecap="round"/>
+  <path d="M522 124V140" stroke="#7DD3FC" stroke-width="3" stroke-linecap="round"/>
+  <text x="556" y="130" class="centerTitle">KM Digital Labs</text>
+  <text x="556" y="156" class="centerSub">Building practical products for learning,</text>
+  <text x="556" y="178" class="centerSub">business and digital problem-solving.</text>
+  <rect x="556" y="192" width="94" height="24" rx="12" fill="#133252"/>
+  <text x="581" y="208" class="pill">Founder-led</text>
+
+  <!-- card 1 -->
+  <rect x="64" y="58" width="252" height="82" rx="20" fill="#091A2B" stroke="#1D4E89"/>
+  <text x="88" y="94" class="cardTitle">Picklo</text>
+  <text x="88" y="118" class="sub">Browser-based AI assistant</text>
+  <text x="88" y="136" class="sub">Local-first · Tool routing</text>
+
+  <!-- card 2 -->
+  <rect x="884" y="58" width="252" height="82" rx="20" fill="#091A2B" stroke="#1D4E89"/>
+  <text x="908" y="94" class="cardTitle">Dinglo</text>
+  <text x="908" y="118" class="sub">Study platform and learning tools</text>
+  <text x="908" y="136" class="sub">EdTech · Student-focused</text>
+
+  <!-- card 3 -->
+  <rect x="64" y="200" width="252" height="82" rx="20" fill="#091A2B" stroke="#1D4E89"/>
+  <text x="88" y="236" class="cardTitle">Patient Desk</text>
+  <text x="88" y="260" class="sub">Secure digital patient admin system</text>
+  <text x="88" y="278" class="sub">Healthcare · Supabase</text>
+
+  <!-- card 4 -->
+  <rect x="884" y="200" width="252" height="82" rx="20" fill="#091A2B" stroke="#1D4E89"/>
+  <text x="908" y="236" class="cardTitle">Open Physics Lab</text>
+  <text x="908" y="260" class="sub">Interactive browser-based experiments</text>
+  <text x="908" y="278" class="sub">Science · Simulations</text>
+</svg>
