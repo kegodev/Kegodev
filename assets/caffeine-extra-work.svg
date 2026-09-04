@@ -1,0 +1,48 @@
+<svg width="820" height="190" viewBox="0 0 820 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="820" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071524"/>
+      <stop offset="1" stop-color="#10263F"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="40" y1="20" x2="780" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <style>
+      .headline { font: 700 28px 'Segoe UI', Inter, Arial, sans-serif; fill: #F8FAFC; }
+      .sub { font: 500 16px 'Segoe UI', Inter, Arial, sans-serif; fill: #AFC4DA; }
+      .label { font: 700 22px 'Segoe UI', Inter, Arial, sans-serif; fill: #E2E8F0; letter-spacing: .4px; }
+      .accent { font: 800 26px 'Segoe UI', Inter, Arial, sans-serif; fill: #7DD3FC; }
+      .tag { font: 600 14px 'Segoe UI', Inter, Arial, sans-serif; fill: #F8FAFC; }
+    </style>
+  </defs>
+
+  <rect width="820" height="190" rx="24" fill="url(#panel)"/>
+  <rect x="2" y="2" width="816" height="186" rx="22" stroke="url(#ring)" opacity="0.8"/>
+
+  <!-- energy drink card -->
+  <rect x="34" y="34" width="210" height="122" rx="22" fill="#0A1D30" stroke="#1D4E89"/>
+  <rect x="84" y="52" width="56" height="87" rx="16" fill="#2563EB"/>
+  <rect x="94" y="42" width="36" height="15" rx="6" fill="#CBD5E1"/>
+  <path d="M111 69L100 92H114L106 121L130 88H116L126 69H111Z" fill="#F8FAFC"/>
+  <text x="160" y="86" class="label">Coffiene</text>
+  <text x="160" y="112" class="sub">Fuel for building late into the night.</text>
+  <rect x="160" y="126" width="64" height="22" rx="11" fill="#1E293B"/>
+  <text x="176" y="141" class="tag">Energy</text>
+
+  <!-- equals / bridge -->
+  <circle cx="292" cy="95" r="28" fill="#0E2237" stroke="#1D4E89"/>
+  <text x="280" y="103" class="accent">=</text>
+
+  <!-- work card -->
+  <rect x="340" y="34" width="446" height="122" rx="22" fill="#0A1D30" stroke="#1D4E89"/>
+  <rect x="378" y="62" width="98" height="62" rx="10" fill="#0F172A" stroke="#60A5FA"/>
+  <rect x="391" y="74" width="72" height="36" rx="6" fill="#1D4ED8"/>
+  <rect x="372" y="127" width="110" height="8" rx="4" fill="#475569"/>
+  <text x="506" y="87" class="label">Extra Work</text>
+  <text x="506" y="114" class="sub">Support the process and I turn caffeine into output.</text>
+  <rect x="506" y="126" width="104" height="22" rx="11" fill="#0F3A57"/>
+  <text x="522" y="141" class="tag">Build Mode</text>
+
+  <text x="34" y="24" class="headline">Fuel for the work</text>
+</svg>
