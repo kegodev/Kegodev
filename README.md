@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Mangena Kegorapetse profile header"/>
+<img src="./assets/hero-premium.svg" width="100%" alt="Mangena Kegorapetse premium profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1600&color=7DD3FC&center=true&vCenter=true&width=900&lines=Founder+of+KM+Digital+Labs;Building+Picklo%2C+Dinglo+and+scientific+software;Full-stack+developer+focused+on+useful+products" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1600&color=7DD3FC&center=true&vCenter=true&width=960&lines=Founder+of+KM+Digital+Labs;Building+products+at+the+intersection+of+software%2C+science+and+education;Full-stack+developer+focused+on+practical+digital+systems" alt="Typing introduction"/>
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 - Founder of **KM Digital Labs**
 - Full-stack developer focused on practical web products and digital systems
-- Building **Picklo**, **Dinglo**, **Patient Desk** and browser-based science tools
+- Building **Picklo**, **Dinglo**, **Patient Desk** and browser-based scientific tools
 - Physical Sciences student with interests in **Biochemistry and Chemistry**
 - Interested in **EdTech, scientific software, AI-assisted systems and full-stack development**
 
@@ -52,21 +52,18 @@
 
 ---
 
+## Project Ecosystem
+
+<div align="center">
+  <img src="./assets/project-ecosystem.svg" width="100%" alt="KM Digital Labs project ecosystem"/>
+</div>
+
+---
+
 ## Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### [Open Physics Lab](https://github.com/kegodev/open-physics-lab)
-
-Interactive browser-based physics simulations designed for learning and experimentation.
-
-`JavaScript` · `Physics` · `EdTech`
-
-[Launch Lab](https://kegodev.github.io/open-physics-lab/) · [Source](https://github.com/kegodev/open-physics-lab)
-
-</td>
 <td width="50%" valign="top">
 
 ### [Picklo](https://github.com/kegodev/picklo)
@@ -76,6 +73,17 @@ A browser-based AI assistant focused on local-first functionality, safe tool rou
 `JavaScript` · `AI` · `Local-first`
 
 [Explore Project](https://github.com/kegodev/picklo)
+
+</td>
+<td width="50%" valign="top">
+
+### [Dinglo Open Physics Lab](https://github.com/kegodev/open-physics-lab)
+
+Interactive browser-based physics simulations designed for learning, experimentation and science education.
+
+`JavaScript` · `Physics` · `EdTech`
+
+[Launch Lab](https://kegodev.github.io/open-physics-lab/) · [Source](https://github.com/kegodev/open-physics-lab)
 
 </td>
 </tr>
@@ -110,7 +118,7 @@ Interactive biochemistry tools and laboratory-focused utilities for science lear
 ## Fuel for the Work
 
 <div align="center">
-  <img src="./assets/caffeine-extra-work.svg" width="86%" alt="Coffiene equals Extra Work support card"/>
+  <img src="./assets/fuel-for-the-work.svg" width="92%" alt="Coffiene equals Extra Work support card"/>
 </div>
 
 ---
