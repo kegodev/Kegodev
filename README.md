@@ -1,43 +1,34 @@
 <div align="center">
 
-# Mangena Kegorapetse
+<img src="./assets/profile-header.svg" width="100%" alt="Mangena Kegorapetse profile header"/>
 
-### Founder · Full-Stack Developer · Physical Sciences Student
-
-I build practical digital products across **software, science, education and business**.
-
-Founder of **KM Digital Labs**, building products such as **Picklo**, **Dinglo**, scientific simulators and full-stack systems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1600&color=7DD3FC&center=true&vCenter=true&width=900&lines=Founder+of+KM+Digital+Labs;Building+Picklo%2C+Dinglo+and+scientific+software;Full-stack+developer+focused+on+useful+products" alt="Typing introduction"/>
 
 <br/>
 
-<a href="https://www.instagram.com/kmdigitallabs/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="24" alt="Instagram"/>
+<a href="https://www.instagram.com/kmdigitallabs/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" alt="Instagram"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/kmdigitallabs/" target="_blank"><strong>@kmdigitallabs</strong></a>
+<a href="https://www.instagram.com/kmdigitallabs/"><strong>@kmdigitallabs</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kmdigitallabs.co.za" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="24" alt="Website"/>
+<a href="https://kmdigitallabs.co.za">
+  <img src="https://cdn.simpleicons.org/googleearth/7DD3FC" width="22" alt="Website"/>
 </a>
 &nbsp;
-<a href="https://kmdigitallabs.co.za" target="_blank"><strong>kmdigitallabs.co.za</strong></a>
+<a href="https://kmdigitallabs.co.za"><strong>kmdigitallabs.co.za</strong></a>
 
 <br/><br/>
 
 <a href="https://github.com/kegodev">
-  <img src="https://img.shields.io/badge/GitHub-kegodev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-kegodev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:services.kmdlabs@outlook.com">
-  <img src="https://img.shields.io/badge/Email-KM%20Digital%20Labs-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-services.kmdlabs%40outlook.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.instagram.com/dev.kegorapetse/">
-  <img src="https://img.shields.io/badge/Instagram-dev.kegorapetse-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://kmdigitallabs.co.za">
+  <img src="https://img.shields.io/badge/Website-KM%20Digital%20Labs-0F172A?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" alt="Website"/>
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%A5%AB%20Coffiene-%3D-111827?style=for-the-badge" alt="Coffiene"/>
-<img src="https://img.shields.io/badge/%F0%9F%92%BB%20Extra%20work-000000?style=for-the-badge" alt="Extra work"/>
 
 </div>
 
@@ -47,7 +38,7 @@ Founder of **KM Digital Labs**, building products such as **Picklo**, **Dinglo**
 
 - Founder of **KM Digital Labs**
 - Full-stack developer focused on practical web products and digital systems
-- Building **Picklo**, **Dinglo** and browser-based science tools
+- Building **Picklo**, **Dinglo**, **Patient Desk** and browser-based science tools
 - Physical Sciences student with interests in **Biochemistry and Chemistry**
 - Interested in **EdTech, scientific software, AI-assisted systems and full-stack development**
 
@@ -56,9 +47,7 @@ Founder of **KM Digital Labs**, building products such as **Picklo**, **Dinglo**
 ## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,postgres,python,git,github,vscode,npm,figma&perline=8&theme=dark" alt="Technology stack"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,postgres,python,git,github,vscode,npm,figma&perline=8&theme=dark" alt="Technology stack"/>
 </div>
 
 ---
@@ -69,7 +58,7 @@ Founder of **KM Digital Labs**, building products such as **Picklo**, **Dinglo**
 <tr>
 <td width="50%" valign="top">
 
-### [Dinglo Open Physics Lab](https://github.com/kegodev/open-physics-lab)
+### [Open Physics Lab](https://github.com/kegodev/open-physics-lab)
 
 Interactive browser-based physics simulations designed for learning and experimentation.
 
@@ -82,7 +71,7 @@ Interactive browser-based physics simulations designed for learning and experime
 
 ### [Picklo](https://github.com/kegodev/picklo)
 
-A browser-based AI assistant focused on local-first functionality, safe tool routing, memory, file handling and adaptive runtime behaviour.
+A browser-based AI assistant focused on local-first functionality, safe tool routing, memory and file handling.
 
 `JavaScript` · `AI` · `Local-first`
 
@@ -95,7 +84,7 @@ A browser-based AI assistant focused on local-first functionality, safe tool rou
 
 ### [Patient Desk](https://github.com/kegodev/patient-desk)
 
-A secure digital patient-administration system built for medical practices, with Supabase Auth, Row Level Security and encrypted patient content.
+A secure digital patient-administration system for medical practices with Supabase Auth, RLS and encrypted patient content.
 
 `JavaScript` · `Supabase` · `Healthcare`
 
@@ -118,6 +107,14 @@ Interactive biochemistry tools and laboratory-focused utilities for science lear
 
 ---
 
+## Fuel for the Work
+
+<div align="center">
+  <img src="./assets/caffeine-extra-work.svg" width="86%" alt="Coffiene equals Extra Work support card"/>
+</div>
+
+---
+
 ## GitHub Activity
 
 <div align="center">
@@ -132,34 +129,13 @@ Interactive biochemistry tools and laboratory-focused utilities for science lear
 
 ---
 
-## KM Digital Labs on YouTube
+## What I Build Around
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://www.youtube.com/watch?v=83U5WAsqDA0"><img src="https://img.youtube.com/vi/83U5WAsqDA0/mqdefault.jpg" width="100%" alt="YouTube video 1"/></a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.youtube.com/watch?v=51UCthtNMSc"><img src="https://img.youtube.com/vi/51UCthtNMSc/mqdefault.jpg" width="100%" alt="YouTube video 2"/></a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.youtube.com/watch?v=eRAPVVgn9R8"><img src="https://img.youtube.com/vi/eRAPVVgn9R8/hqdefault.jpg" width="100%" alt="YouTube video 3"/></a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.youtube.com/watch?v=P-xLyUJV6-E"><img src="https://img.youtube.com/vi/P-xLyUJV6-E/hqdefault.jpg" width="100%" alt="YouTube video 4"/></a>
-</td>
-</tr>
-</table>
+`EdTech` · `Scientific Software` · `Virtual Labs` · `AI Systems` · `Full-Stack Applications` · `Business Software`
 
 </div>
-
----
-
-## Areas I Build In
-
-`EdTech` · `Scientific Software` · `Virtual Labs` · `AI Systems` · `Full-Stack Applications` · `Business Software`
 
 ---
 
