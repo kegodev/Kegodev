@@ -1,0 +1,72 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06121F"/>
+      <stop offset="1" stop-color="#0B1F35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="80" x2="1000" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <style>
+      .title { font: 700 48px 'Segoe UI', Inter, Arial, sans-serif; fill: #F8FAFC; }
+      .subtitle { font: 600 20px 'Segoe UI', Inter, Arial, sans-serif; fill: #CBD5E1; }
+      .body { font: 400 18px 'Segoe UI', Inter, Arial, sans-serif; fill: #94A3B8; }
+      .pillText { font: 600 15px 'Segoe UI', Inter, Arial, sans-serif; fill: #E2E8F0; letter-spacing: .3px; }
+      .small { font: 500 14px 'Segoe UI', Inter, Arial, sans-serif; fill: #7DD3FC; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect x="14" y="14" width="1172" height="312" rx="18" fill="none" stroke="#17304D"/>
+
+  <circle cx="1050" cy="78" r="58" fill="#38BDF8" opacity="0.2" filter="url(#blur)"/>
+  <circle cx="1120" cy="242" r="62" fill="#8B5CF6" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="132" cy="70" r="42" fill="#38BDF8" opacity="0.12" filter="url(#blur)"/>
+
+  <g opacity="0.22">
+    <path d="M860 35H1150" stroke="#1E3A5F"/>
+    <path d="M860 65H1110" stroke="#1E3A5F"/>
+    <path d="M860 95H1165" stroke="#1E3A5F"/>
+    <path d="M860 125H1080" stroke="#1E3A5F"/>
+    <path d="M860 155H1140" stroke="#1E3A5F"/>
+    <path d="M860 185H1098" stroke="#1E3A5F"/>
+    <path d="M860 215H1165" stroke="#1E3A5F"/>
+    <path d="M860 245H1108" stroke="#1E3A5F"/>
+    <path d="M860 275H1148" stroke="#1E3A5F"/>
+  </g>
+
+  <g opacity="0.7">
+    <rect x="858" y="45" width="14" height="14" rx="4" fill="#38BDF8"/>
+    <rect x="858" y="105" width="14" height="14" rx="4" fill="#60A5FA"/>
+    <rect x="858" y="165" width="14" height="14" rx="4" fill="#8B5CF6"/>
+    <rect x="858" y="225" width="14" height="14" rx="4" fill="#22C55E"/>
+    <rect x="858" y="285" width="14" height="14" rx="4" fill="#F59E0B"/>
+  </g>
+
+  <text x="74" y="98" class="small">KM DIGITAL LABS · SOFTWARE · SCIENCE · EDUCATION</text>
+  <text x="74" y="150" class="title">Mangena Kegorapetse</text>
+  <text x="74" y="186" class="subtitle">Founder · Full-Stack Developer · Physical Sciences Student</text>
+  <text x="74" y="225" class="body">Building practical digital products across software, science, education and business.</text>
+  <text x="74" y="252" class="body">Creating Picklo, Dinglo, Patient Desk and browser-based scientific tools.</text>
+
+  <g>
+    <rect x="74" y="276" width="140" height="34" rx="17" fill="#0F2942" stroke="#1D4E89"/>
+    <text x="104" y="298" class="pillText">KM Digital Labs</text>
+
+    <rect x="228" y="276" width="100" height="34" rx="17" fill="#0F2942" stroke="#1D4E89"/>
+    <text x="259" y="298" class="pillText">Picklo</text>
+
+    <rect x="342" y="276" width="100" height="34" rx="17" fill="#0F2942" stroke="#1D4E89"/>
+    <text x="373" y="298" class="pillText">Dinglo</text>
+
+    <rect x="456" y="276" width="172" height="34" rx="17" fill="#0F2942" stroke="#1D4E89"/>
+    <text x="489" y="298" class="pillText">Scientific Software</text>
+  </g>
+
+  <path d="M792 46C776 62 768 84 768 112C768 139 776 161 792 178C808 194 830 202 858 202C886 202 908 194 924 178" stroke="url(#accent)" stroke-width="3" opacity="0.55"/>
+  <path d="M792 236C808 220 830 212 858 212C886 212 908 220 924 236C940 252 948 274 948 302" stroke="url(#accent)" stroke-width="3" opacity="0.35"/>
+</svg>
