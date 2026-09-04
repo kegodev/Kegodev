@@ -74,11 +74,6 @@ View Repository
 </tr>
 </table>
 ---
-Fuel for the Work
-<div align="center">
-  <img src="./assets/fuel-for-the-work.svg" width="92%" alt="Coffiene equals Extra Work support card"/>
-</div>
----
 GitHub Activity
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kegodev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
