@@ -3,8 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1600&color=7DD3FC&center=true&vCenter=true&width=960&lines=Founder+of+KM+Digital+Labs;Building+products+at+the+intersection+of+software%2C+science+and+education;Full-stack+developer+focused+on+practical+digital+systems" alt="Typing introduction"/>
 <br/>
 
-<a href="https://kmdigitallabs.co.za"><strong>kmdigitallabs.co.za</strong></a>
-<br/><br/>
 <a href="https://github.com/kegodev">
   <img src="https://img.shields.io/badge/GitHub-kegodev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
