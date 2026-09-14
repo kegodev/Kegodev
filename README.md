@@ -24,25 +24,25 @@
   <img src="https://img.shields.io/badge/Website-KM%20Digital%20Labs-0F172A?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" alt="Website"/>
 </a>
 </div>
----
+
 ### About Me
 Founder of KM Digital Labs
 Full-stack developer focused on practical web products and digital systems
 Building Picklo, Dinglo, Patient Desk and browser-based scientific tools
 Physical Sciences student with interests in Biochemistry and Chemistry
 Interested in EdTech, scientific software, AI-assisted systems and full-stack development
----
+
 ### Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,postgres,python,git,github,vscode,npm,figma&perline=8&theme=dark" alt="Technology stack"/>
 </div>
----
-Project Ecosystem
+
+### Project Ecosystem
 <div align="center">
   <img src="./assets/project-ecosystem.svg" width="100%" alt="KM Digital Labs project ecosystem"/>
 </div>
 ---
-### Featured Projects
+Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -73,19 +73,19 @@ View Repository
 </td>
 </tr>
 </table>
----
+
 ### GitHub Activity
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kegodev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 <br/><br/>
 <img src="https://streak-stats.demolab.com?user=kegodev&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 </div>
----
+
 ### What I Build Around
 <div align="center">
 `EdTech` · `Scientific Software` · `Virtual Labs` · `AI Systems` · `Full-Stack Applications` · `Business Software`
 </div>
----
+
 <div align="center">
 KM Digital Labs
 Build useful products. Solve real problems. Keep improving.
