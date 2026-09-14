@@ -41,8 +41,8 @@ Interested in EdTech, scientific software, AI-assisted systems and full-stack de
 <div align="center">
   <img src="./assets/project-ecosystem.svg" width="100%" alt="KM Digital Labs project ecosystem"/>
 </div>
----
-Featured Projects
+
+### Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
