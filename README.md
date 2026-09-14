@@ -2,16 +2,7 @@
 <img src="./assets/hero-premium.svg" width="100%" alt="Mangena Kegorapetse premium profile banner"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1600&color=7DD3FC&center=true&vCenter=true&width=960&lines=Founder+of+KM+Digital+Labs;Building+products+at+the+intersection+of+software%2C+science+and+education;Full-stack+developer+focused+on+practical+digital+systems" alt="Typing introduction"/>
 <br/>
-<a href="https://www.instagram.com/kmdigitallabs/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/kmdigitallabs/"><strong>@kmdigitallabs</strong></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kmdigitallabs.co.za">
-  <img src="https://cdn.simpleicons.org/googleearth/7DD3FC" width="22" alt="Website"/>
-</a>
-&nbsp;
+
 <a href="https://kmdigitallabs.co.za"><strong>kmdigitallabs.co.za</strong></a>
 <br/><br/>
 <a href="https://github.com/kegodev">
