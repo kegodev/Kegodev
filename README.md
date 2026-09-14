@@ -4,13 +4,13 @@
 <br/>
 
 <a href="https://github.com/kegodev">
-  <img src="https://img.shields.io/badge/GitHub-kegodev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-kegodev-111827?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
 <a href="mailto:services.kmdlabs@outlook.com">
-  <img src="https://img.shields.io/badge/Email-services.kmdlabs%40outlook.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-services.kmdlabs%40outlook.com-0F172A?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
 </a>
 <a href="https://kmdigitallabs.co.za">
-  <img src="https://img.shields.io/badge/Website-KM%20Digital%20Labs-0F172A?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" alt="Website"/>
+  <img src="https://img.shields.io/badge/Website-KM%20Digital%20Labs-0F172A?style=for-the-badge&logo=googlechrome&logoColor=red" alt="Website"/>
 </a>
 </div>
 
