@@ -1,156 +1,62 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero-premium.svg" width="100%" alt="Mangena Kegorapetse — full-stack developer and founder of KM Digital Labs. Software with a purpose." />
+</p>
 
-<img src="./assets/hero-premium.svg" width="100%" alt="Mangena Kegorapetse premium profile banner"/>
+<p align="center">
+  <a href="https://kmdigitallabs.co.za"><strong>KM Digital Labs</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:services.kmdlabs@outlook.com">Email me</a> &nbsp; / &nbsp;
+  <a href="https://www.instagram.com/kmdigitallabs/">Instagram</a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1600&color=7DD3FC&center=true&vCenter=true&width=960&lines=Founder+of+KM+Digital+Labs;Building+products+at+the+intersection+of+software%2C+science+and+education;Full-stack+developer+focused+on+practical+digital+systems" alt="Typing introduction"/>
+## Hi, I’m Kegorapetse.
 
-<br/>
+I’m a full-stack developer, the founder of **KM Digital Labs**, and a Physical Sciences student studying **Biochemistry and Chemistry**. I build web products for businesses, learning platforms for students, and interactive tools that bring science into the browser.
 
-<a href="https://www.instagram.com/kmdigitallabs/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/kmdigitallabs/"><strong>@kmdigitallabs</strong></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kmdigitallabs.co.za">
-  <img src="https://cdn.simpleicons.org/googleearth/7DD3FC" width="22" alt="Website"/>
-</a>
-&nbsp;
-<a href="https://kmdigitallabs.co.za"><strong>kmdigitallabs.co.za</strong></a>
+My work connects three interests: **software, science and education**. I enjoy turning practical problems into tools people can use.
 
-<br/><br/>
+## What I’m building
 
-<a href="https://github.com/kegodev">
-  <img src="https://img.shields.io/badge/GitHub-kegodev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:services.kmdlabs@outlook.com">
-  <img src="https://img.shields.io/badge/Email-services.kmdlabs%40outlook.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://kmdigitallabs.co.za">
-  <img src="https://img.shields.io/badge/Website-KM%20Digital%20Labs-0F172A?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" alt="Website"/>
-</a>
+<p>
+  <img src="./assets/project-ecosystem.svg" width="100%" alt="Selected work: Picklo for AI tools, Dinglo for education, Patient Desk for practice administration, and Open Physics Lab for interactive science." />
+</p>
 
-</div>
+### Picklo
+A browser-based AI assistant exploring memory, file handling and tools for everyday tasks.
 
----
+[Explore the project ↗](https://github.com/kegodev/picklo)
 
-## About Me
+### Dinglo Open Physics Lab
+Interactive physics simulations for exploring concepts through experiments in the browser.
 
-- Founder of **KM Digital Labs**
-- Full-stack developer focused on practical web products and digital systems
-- Building **Picklo**, **Dinglo**, **Patient Desk** and browser-based scientific tools
-- Physical Sciences student with interests in **Biochemistry and Chemistry**
-- Interested in **EdTech, scientific software, AI-assisted systems and full-stack development**
+[Try the lab ↗](https://kegodev.github.io/open-physics-lab/) · [Source code](https://github.com/kegodev/open-physics-lab)
 
----
+### Patient Desk
+A patient-administration project for medical practices, built around authentication and controlled access to records.
 
-## Tech Stack
+[Explore the project ↗](https://github.com/kegodev/patient-desk)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,postgres,python,git,github,vscode,npm,figma&perline=8&theme=dark" alt="Technology stack"/>
-</div>
+### Biochemistry Labs
+Browser-based biochemistry tools and laboratory utilities for science learning and analysis.
 
----
+[Explore the project ↗](https://github.com/kegodev/biochemistry-labs)
 
-## Project Ecosystem
+## Tools I work with
 
-<div align="center">
-  <img src="./assets/project-ecosystem.svg" width="100%" alt="KM Digital Labs project ecosystem"/>
-</div>
+**Web & interfaces**  
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
 
----
+**Backend & data**  
+Node.js · Python · Supabase · PostgreSQL
 
-## Featured Projects
+**Design & workflow**  
+Figma · Git · GitHub · VS Code
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Let’s work together
 
-### [Picklo](https://github.com/kegodev/picklo)
+Through **KM Digital Labs**, I build websites, online stores and custom digital tools. If you have a business to bring online or a useful product to build, let’s talk.
 
-A browser-based AI assistant focused on local-first functionality, safe tool routing, memory and file handling.
+[Visit KM Digital Labs ↗](https://kmdigitallabs.co.za) · [Get in touch](mailto:services.kmdlabs@outlook.com)
 
-`JavaScript` · `AI` · `Local-first`
-
-[Explore Project](https://github.com/kegodev/picklo)
-
-</td>
-<td width="50%" valign="top">
-
-### [Dinglo Open Physics Lab](https://github.com/kegodev/open-physics-lab)
-
-Interactive browser-based physics simulations designed for learning, experimentation and science education.
-
-`JavaScript` · `Physics` · `EdTech`
-
-[Launch Lab](https://kegodev.github.io/open-physics-lab/) · [Source](https://github.com/kegodev/open-physics-lab)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Patient Desk](https://github.com/kegodev/patient-desk)
-
-A secure digital patient-administration system for medical practices with Supabase Auth, RLS and encrypted patient content.
-
-`JavaScript` · `Supabase` · `Healthcare`
-
-[View Repository](https://github.com/kegodev/patient-desk)
-
-</td>
-<td width="50%" valign="top">
-
-### [Biochemistry Labs](https://github.com/kegodev/biochemistry-labs)
-
-Interactive biochemistry tools and laboratory-focused utilities for science learning and analysis.
-
-`JavaScript` · `Biochemistry` · `Scientific Software`
-
-[View Repository](https://github.com/kegodev/biochemistry-labs)
-
-</td>
-</tr>
-</table>
-
----
-
-## Fuel for the Work
-
-<div align="center">
-  <img src="./assets/fuel-for-the-work.svg" width="92%" alt="Coffiene equals Extra Work support card"/>
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kegodev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=kegodev&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## What I Build Around
-
-<div align="center">
-
-`EdTech` · `Scientific Software` · `Virtual Labs` · `AI Systems` · `Full-Stack Applications` · `Business Software`
-
-</div>
-
----
-
-<div align="center">
-
-### KM Digital Labs
-
-**Build useful products. Solve real problems. Keep improving.**
-
-</div>
+<p>
+  <img src="./assets/fuel-for-the-work.svg" width="100%" alt="Coffee. Curiosity. Code. Keep learning. Keep building. Make it useful." />
+</p>
